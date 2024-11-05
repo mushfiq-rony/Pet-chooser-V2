@@ -42,18 +42,3 @@ After editing, the program displays a confirmation message and returns to the In
 ### Notes
 - Only the pet’s name and age can be edited.
 - During the Edit Process, typing `QUIT` (case insensitive) at any point will exit the program without saving changes.
-
-## Requirements
-
-- **Python** (version 3.7 or higher)
-- **pymysql** library for MySQL connectivity
-- **MySQL database** with the necessary `pets` table and `creds` module for database credentials
-
-## Example Usage
-
-Run the program and follow the prompts to view, select, and edit pets. The program offers a flexible user experience with easy quitting and editing options at every step.
-
-
-
-
-
